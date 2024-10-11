@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @apvillela
-- 👀 I’m interested in Java, devOps and cybersecurity
-- 🌱 I’m currently learning Java and Python 
-- 💞️ I’m looking to collaborate on Whatever projects are fun!
+- 👀 I’m interested in Java and cybersecurity
+- 🌱 I’m currently learning Java and HTML5
+- 📚 Currently 2/5 on my graduation
 - 📫 How to reach me @alexandre.villelaa on insta
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like videogames a lot!
+- ⚡ Fun fact: I play videogames on my computer since I was 5
 
 <!---
 apvillela/apvillela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
