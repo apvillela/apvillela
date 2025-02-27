@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apvillela
 - 👀 I’m interested in Java and cybersecurity
-- 🌱 I’m currently learning Java and HTML5
-- 📚 Currently 2/5 on my graduation
+- 🌱 I’m currently learning Java; SQL; HTML5; JavaScript; React
+- 📚 Currently 3/5 on my graduation
 - 📫 How to reach me @alexandre.villelaa on insta
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I play videogames on my computer since I was 5
