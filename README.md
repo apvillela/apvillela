@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandre 
 - 🧠 Systems Analysis and Development Student at Instituto Federal de Santa Catarina </br>
-- 📚 Currently 3/5 on my graduation </br>
+- 📚 Currently 4/5 on my graduation </br>
 - 📚 Proficient in English, Portuguese and Spanish </br>
 
 # 💻 Tech Stack:
